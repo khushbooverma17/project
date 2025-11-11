@@ -21,3 +21,4 @@ Food Secure empowers donors, NGOs, and communities through verifiable data on fo
 - NFT badges for donors and partner organizations.
 - Public dashboard showing live donation and distribution metrics.
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2e06f7f1-96c8-40e7-8287-3efd60c5f178" />
+<h>commit</h>
